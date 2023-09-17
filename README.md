@@ -1,4 +1,4 @@
-# git-workshop
+# git-workshophkdfjsfjfsdjsf
 
 Need to make sure you are in the correct folder before you start writing any git commands in your terminal/command line
 Staging area: the “area” where Git puts all of the changes we have selected using “git add”
