@@ -1,5 +1,7 @@
 # git-workshop
 
+hi :)
+
 Need to make sure you are in the correct folder before you start writing any git commands in your terminal/command line
 Staging area: the “area” where Git puts all of the changes we have selected using “git add”
 Working area: the “area” where all the code files we are currently working on (the files that are being changed) goes
