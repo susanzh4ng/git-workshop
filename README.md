@@ -1,4 +1,8 @@
-# git-workshop susan branch
+<<<<<<< HEAD
+# git-workshop lol
+sanjana
+hi :)
+>>>>>>> 7a62e71165197abf42903f9b3749a77f9602848c
 
 Need to make sure you are in the correct folder before you start writing any git commands in your terminal/command line
 Staging area: the “area” where Git puts all of the changes we have selected using “git add”
