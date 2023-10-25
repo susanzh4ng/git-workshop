@@ -1,4 +1,4 @@
-# Susan's Git Workshop
+# Git Workshop
 
 
 ### Miscellaneous ###
