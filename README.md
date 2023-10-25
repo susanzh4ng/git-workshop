@@ -40,6 +40,8 @@
 * `git checkout [existing-branch]` switches you to work on another branch
 * `git diff [another-branch]` see how another-branch differs from the branch you are currently on
 * `git branch -d [merged-branch]` deletes branch; only use if the branch has already been merged
+* `git pull` after completing a pull request in GitHub, do this to get code from remote repo to your local repo
+* `git rebase main` in your personal branch; moves your entire personal branch to the most recent main branch
 * ***Merging Code:***
 * When you merge two branches together, the result will go on the branch that you are currently working on
 * ***(1.)*** `git merge [featureBranch] -m “[message]”` merging featureBranch’s code with masterBranch’s code; acts as a commit
