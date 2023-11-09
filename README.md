@@ -35,6 +35,7 @@
 
 
 ### Git Branching ###
+* `git reset --hard [current-branch]` resets and DELETES all uncommitted changes and resets to last commit on branch
 * `git branch` see the branches that make up the repo
 * `git checkout -b [new-branch]` creates new branch
 * `git checkout [existing-branch]` switches you to work on another branch
