@@ -32,6 +32,7 @@
 	* `push -u origin [anotherBranch]` sets up stream so that pushing to anotherBranch is the default
 * `pull` pull changes down from the remote repo to your local machine
 * `git rm -rf .git` completely removes Git from your project; no longer has access to the Git repository
+* `git log > commithistory.txt`
 
 
 ### Git Branching ###
